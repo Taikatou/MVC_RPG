@@ -1,7 +1,3 @@
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\clouds.png
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\Data\sample.json
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\clouds.xnb
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\Data\TestScripts.script.cs
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\Data\level01.json
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\Fonts\montserrat-32.xnb
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\Fonts\montserrat-32_0.xnb
@@ -34,9 +30,7 @@ C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\SmallGame.dll
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\SmallPlatform.exe
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\SmallGame.pdb
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\SmallPlatform.pdb
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\box2d.pdb
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\CocosSharp.pdb
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\CocosSharp.xml
@@ -57,3 +51,5 @@ C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\obj\x86\Debug\G
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\obj\x86\Debug\Game.exe
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\obj\x86\Debug\Game.pdb
 C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Extended.pdb
+C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\SmallCommons.dll
+C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game1\bin\Windows\x86\Debug\SmallCommons.pdb

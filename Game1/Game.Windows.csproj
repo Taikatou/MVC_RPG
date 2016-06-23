@@ -187,13 +187,13 @@
       <Project>{41724c52-3d50-45bb-81eb-3c8a247eafd1}</Project>
       <Name>MonoGame.Extended</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\..\GitHub\SmallGame\SmallGame\SmallGame.csproj">
+    <ProjectReference Include="..\SmallGame\SmallCommons\SmallCommons.csproj">
+      <Project>{6621c778-3855-498c-b01b-498cadf06cb7}</Project>
+      <Name>SmallCommons</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SmallGame\SmallGame\SmallGame.csproj">
       <Project>{b756520b-eb2c-4195-a0ec-f9051de4bea7}</Project>
       <Name>SmallGame</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\GitHub\SmallGame\SmallPlatform\SmallPlatform.csproj">
-      <Project>{2bccd826-a68a-420f-bf16-757290a57b3f}</Project>
-      <Name>SmallPlatform</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />
