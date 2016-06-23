@@ -60,23 +60,19 @@ namespace Game.Objects
                 Position.Y += -movement_speed* deltaSeconds;
             }
 
-            else if (controller.Left)
+            if (controller.Left)
             {
                 Position.X += -movement_speed* deltaSeconds;
             }
 
-            else if (controller.Down)
+            if (controller.Down)
             {
                 Position.Y += movement_speed* deltaSeconds;
             }
 
-            else if (controller.Right)
+            if (controller.Right)
             {
                 Position.X += movement_speed* deltaSeconds;
-            }
-            else
-            {
-                return false;
             }
             return true;
         }
