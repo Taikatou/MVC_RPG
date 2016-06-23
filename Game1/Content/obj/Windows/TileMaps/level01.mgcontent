@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/conor/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/TileMaps/level01.tmx</SourceFile>
+  <SourceTime>2016-06-17T20:49:46.7617553+01:00</SourceTime>
+  <DestFile>C:/Users/conor/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/bin/Windows/TileMaps/level01.xnb</DestFile>
+  <DestTime>2016-06-21T21:09:57.7873726+01:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2016-04-08T11:54:30+01:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2016-04-08T11:54:30+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

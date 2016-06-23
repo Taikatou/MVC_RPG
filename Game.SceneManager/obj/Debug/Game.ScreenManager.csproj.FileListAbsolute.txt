@@ -1,0 +1,7 @@
+c:\Users\conor\documents\visual studio 2015\Projects\Game1\Game.SceneManager\bin\Debug\Game.SceneManager.dll
+c:\Users\conor\documents\visual studio 2015\Projects\Game1\Game.SceneManager\bin\Debug\Game.SceneManager.pdb
+c:\Users\conor\documents\visual studio 2015\Projects\Game1\Game.SceneManager\obj\Debug\Game.ScreenManager.csprojResolveAssemblyReference.cache
+c:\Users\conor\documents\visual studio 2015\Projects\Game1\Game.SceneManager\obj\Debug\Game.SceneManager.dll
+c:\Users\conor\documents\visual studio 2015\Projects\Game1\Game.SceneManager\obj\Debug\Game.SceneManager.pdb
+C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game.SceneManager\bin\Debug\Game.Engine.dll
+C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game.SceneManager\bin\Debug\Game.Engine.pdb
