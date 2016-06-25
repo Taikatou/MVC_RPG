@@ -53,3 +53,6 @@ Game.SceneManager/obj
 Game.SceneManager/bin
 Game1/obj
 Game1/bin
+
+Game1/Content/obj
+.vs

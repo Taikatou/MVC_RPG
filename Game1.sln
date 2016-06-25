@@ -5,11 +5,11 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game.Windows", "Game1\Game.Windows.csproj", "{E0F854C7-7A72-42CE-A1A2-DE600BE5C26B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Extended", "..\..\..\GitHub\MonoGame.Extended\Source\MonoGame.Extended\MonoGame.Extended.csproj", "{41724C52-3D50-45BB-81EB-3C8A247EAFD1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallGame", "SmallGame\SmallGame\SmallGame.csproj", "{B756520B-EB2C-4195-A0EC-F9051DE4BEA7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallCommons", "SmallGame\SmallCommons\SmallCommons.csproj", "{6621C778-3855-498C-B01B-498CADF06CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Extended", "..\MonoGame.Extended\Source\MonoGame.Extended\MonoGame.Extended.csproj", "{41724C52-3D50-45BB-81EB-3C8A247EAFD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +25,6 @@ Global
 		{E0F854C7-7A72-42CE-A1A2-DE600BE5C26B}.Release|Any CPU.ActiveCfg = Release|x86
 		{E0F854C7-7A72-42CE-A1A2-DE600BE5C26B}.Release|x86.ActiveCfg = Release|x86
 		{E0F854C7-7A72-42CE-A1A2-DE600BE5C26B}.Release|x86.Build.0 = Release|x86
-		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Debug|x86.Build.0 = Debug|Any CPU
-		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Release|x86.ActiveCfg = Release|Any CPU
-		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Release|x86.Build.0 = Release|Any CPU
 		{B756520B-EB2C-4195-A0EC-F9051DE4BEA7}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{B756520B-EB2C-4195-A0EC-F9051DE4BEA7}.Debug|x86.ActiveCfg = Debug|x86
 		{B756520B-EB2C-4195-A0EC-F9051DE4BEA7}.Debug|x86.Build.0 = Debug|x86
@@ -47,6 +39,14 @@ Global
 		{6621C778-3855-498C-B01B-498CADF06CB7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6621C778-3855-498C-B01B-498CADF06CB7}.Release|x86.ActiveCfg = Release|Any CPU
 		{6621C778-3855-498C-B01B-498CADF06CB7}.Release|x86.Build.0 = Release|Any CPU
+		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Debug|x86.Build.0 = Debug|Any CPU
+		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Release|x86.ActiveCfg = Release|Any CPU
+		{41724C52-3D50-45BB-81EB-3C8A247EAFD1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
