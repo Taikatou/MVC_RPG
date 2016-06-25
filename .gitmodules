@@ -1,3 +1,6 @@
 [submodule "SmallGame"]
 	path = SmallGame
 	url = https://github.com/Taikatou/SmallGame
+[submodule "MonoGame.Extended"]
+	path = MonoGame.Extended
+	url = https://github.com/craftworkgames/MonoGame.Extended
