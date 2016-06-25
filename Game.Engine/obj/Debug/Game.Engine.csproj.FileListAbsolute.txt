@@ -1,5 +1,0 @@
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game.Engine\obj\Debug\Game.Engine.csprojResolveAssemblyReference.cache
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game.Engine\bin\Debug\Game.Engine.dll
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game.Engine\bin\Debug\Game.Engine.pdb
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game.Engine\obj\Debug\Game.Engine.dll
-C:\Users\conor\Documents\Visual Studio 2015\Projects\Game1\Game.Engine\obj\Debug\Game.Engine.pdb
